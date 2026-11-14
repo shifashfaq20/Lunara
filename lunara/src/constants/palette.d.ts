@@ -1,0 +1,25 @@
+declare const palette: {
+  void: string;
+  abyss: string;
+  navy: string;
+  hull: string;
+  hullLight: string;
+  line: string;
+  lineStrong: string;
+  glass: string;
+  glassDeep: string;
+  cyan: string;
+  cyanDim: string;
+  violet: string;
+  violetDim: string;
+  amber: string;
+  amberDim: string;
+  red: string;
+  redDim: string;
+  regolith: string;
+  earth: string;
+  text: string;
+  textSoft: string;
+  textMuted: string;
+};
+export = palette;
